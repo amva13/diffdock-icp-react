@@ -1,0 +1,13 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.dfx
+
+# outputs from dfx generate
+src
+
+# yarn
+yarn-error.log
+yarn.lock
